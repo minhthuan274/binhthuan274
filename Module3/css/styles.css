@@ -35,11 +35,11 @@
   margin-bottom: 0;
 }
 
-a{
+.content > a{
   color: #F8C471;
 }
 
-a:hover{
+.content > a:hover{
   text-decoration: none;
   color: #73C6B6;
 }
@@ -47,6 +47,15 @@ a:hover{
 /* End Main */
 
 /* Nav bar */
+.navbar-header > a {
+  font-size: 30px;
+  color: #3498DB;
+}
+
+.navbar-collapse > nav > a{
+  color: #52BE80;
+  font-size: 25px;
+}
 
 /* End nav bar */
 
