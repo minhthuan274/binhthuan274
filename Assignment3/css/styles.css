@@ -47,14 +47,14 @@
 /* End Main */
 
 /* Nav bar */
-.navbar-header > a {
+.navbar-default .navbar-header > a {
   font-size: 30px;
   color: #3498DB;
 }
 
-.navbar-collapse > nav > a{
+.navbar-default > .navbar-collapse > .nav > li > a{
   color: #52BE80;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 /* End nav bar */
